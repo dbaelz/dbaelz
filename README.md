@@ -1,9 +1,15 @@
-### Hi there, I'm Daniel 👋
+### Hi there, I'm [Daniel](https://dbaelz.de) 👋
+<br>
 
-![follow dbaelz on twitter](https://img.shields.io/twitter/follow/dbaelz)
+🧑‍💻 Android developer with an agile mindset
+  
+✨ Loves to use and develop open source
+ 
+💬 Organizes [Mobile Development Karlsruhe](https://www.meetup.com/de-DE/Karlsruhe-Mobile-Development-Meetup/) meetup
+
+🔭 Currently playing around with [Compose for Desktop](https://www.jetbrains.com/de-de/lp/compose/)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dbaelz&currStreakNum=00DD41)](https://git.io/streak-stats)
 
 <!--
 **dbaelz/dbaelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
