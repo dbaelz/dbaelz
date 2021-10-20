@@ -4,11 +4,12 @@
 🧑‍💻 Android developer with an agile mindset
   
 ✨ Loves to use and develop open source
- 
+
+💻 Tech enthusiast who loves to try out different technologies
+
 💬 Organizes [Mobile Development Karlsruhe](https://www.meetup.com/de-DE/Karlsruhe-Mobile-Development-Meetup/) meetup
 
-🔭 Currently playing around with [Compose for Desktop](https://www.jetbrains.com/de-de/lp/compose/)
-
+🔭 Currently fiddles with UIs using [Jetpack Compose](https://developer.android.com/jetpack/compose) and [Compose for Desktop](https://www.jetbrains.com/de-de/lp/compose/)
 
 
 <!--
