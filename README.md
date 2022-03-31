@@ -1,7 +1,7 @@
 ### Hi there, I'm [Daniel](https://dbaelz.de) 👋
 <br>
 
-🧑‍💻 Android developer with an agile mindset
+🧑‍💻 Freelance Android developer with an agile mindset
   
 ✨ Loves to use and develop open source
 
