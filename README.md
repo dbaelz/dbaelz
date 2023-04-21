@@ -9,7 +9,7 @@
 
 💬 Organizes [Mobile Development Karlsruhe](https://www.meetup.com/de-DE/Karlsruhe-Mobile-Development-Meetup/) meetup
 
-🔭 Currently fiddles with UIs using [Jetpack Compose](https://developer.android.com/jetpack/compose) and [Compose for Desktop](https://www.jetbrains.com/de-de/lp/compose/)
+🔭 Currently fiddles with [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) and [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform)
 
 
 <!--
