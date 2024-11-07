@@ -9,7 +9,9 @@
 
 💬 Organizes [Mobile Development Karlsruhe](https://www.meetup.com/de-DE/Karlsruhe-Mobile-Development-Meetup/) meetup
 
-🔭 Currently fiddles with [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) and [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform)
+🌐 Find out more on my [website](https://dbaelz.de)
+
+🔭 Currently playing around with [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html), [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform) and [Ktor](https://ktor.io/)
 
 
 <!--
