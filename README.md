@@ -11,8 +11,7 @@
 
 🌐 Find out more on my [website](https://dbaelz.de)
 
-🔭 Currently playing around with [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html), [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform) and [Ktor](https://ktor.io/)
-
+🔭 Currently playing around with [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html), [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform), [Ktor](https://ktor.io/) and local/mobile AI use cases.
 
 <!--
 **dbaelz/dbaelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
